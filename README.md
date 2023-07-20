@@ -1,16 +1,16 @@
 Get out.
 
-### Programming Languages
+### linguagens de programação
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,Java,python,C,HTML,CSS)](https://skillicons.dev)
 
 ### Tools and Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
-### Other Skills
+### Outras Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr)](https://skillicons.dev)
 
 ### Contact me
 
