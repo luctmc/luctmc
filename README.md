@@ -1,16 +1,19 @@
-### Hi there 👋
+Get out.
 
-<!--
-**luctmc/luctmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,python,java)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+
+### Other Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
+
+### Contact me
+
+<a href="https://discord.com/users/907748045393920010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://www.github.com/luctmc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
