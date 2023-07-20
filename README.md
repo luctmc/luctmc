@@ -2,11 +2,8 @@ Get out.
 
 ### linguagens de programação
 
-[![My Skills](https://skillicons.dev/icons?i=js,Java,python,C,HTML,CSS)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,html,css)](https://skillicons.dev)
 
-### Tools and Frameworks
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ### Outras Habilidades
 
