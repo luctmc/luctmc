@@ -1,15 +1,15 @@
 Get out.
 
-### linguagens de programação
+### • Linguagens de programação
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,python,c,html,css)](https://skillicons.dev)
 
 
-### Outras Habilidades
+### • Outras habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr)](https://skillicons.dev)
 
-### Contact me
+### • Contato
 
 <a href="https://discord.com/users/907748045393920010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://www.github.com/luctmc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
