@@ -1,4 +1,4 @@
-Get out.
+
 
 ### • Linguagens de programação
 
