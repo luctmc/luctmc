@@ -2,7 +2,7 @@
 
 ### • Linguagens de programação:
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,python,c,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,python,react,c,html,css)](https://skillicons.dev)
 
 
 ### • Outras habilidades:
