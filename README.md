@@ -2,12 +2,12 @@
 
 ### • Linguagens de programação:
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,python,c,react,html,css)](https://skillicons.dev)
 
 
 ### • Outras habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,blender)](https://skillicons.dev)
 
 ### • Contato:
 
