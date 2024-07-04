@@ -1,7 +1,7 @@
 <div align="left">
   <a href="https://github.com/luctmc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehholiveira&show_icons=true&locale=pt-br&layout=compact&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehholiveira&show_icons=true&locale=pt-br&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luctmc&show_icons=true&locale=pt-br&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luctmc&show_icons=true&locale=pt-br&theme=react"/>
 </div>
 
 
@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="30" height="30">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="30" height="30">
