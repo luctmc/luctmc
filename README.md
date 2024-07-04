@@ -1,7 +1,7 @@
 <div align="left">
   <a href="https://github.com/luctmc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luctmc&show_icons=true&locale=pt-br&layout=compact&theme=react"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=luctmc&show_icons=true&locale=pt-br&theme=react"/>
+  <img height="380em" src="https://github-readme-stats.vercel.app/api?username=luctmc&show_icons=true&locale=pt-br&theme=react"/>
 </div>
 
 
