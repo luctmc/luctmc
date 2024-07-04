@@ -29,6 +29,6 @@
 <h3 align="left">• Contato:</h3>
 <p align="left">
 <a href="https://twitter.com/luctmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luctmc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luctmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luctmc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-castro-083201292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luctmc" height="30" width="40" /></a>
 </p>
 
