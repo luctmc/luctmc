@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="30" height="30">
