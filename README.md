@@ -1,16 +1,38 @@
+<div align="left">
+  <a href="https://github.com/luctmc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehholiveira&show_icons=true&locale=pt-br&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehholiveira&show_icons=true&locale=pt-br&theme=react"/>
+</div>
 
 
-### • Linguagens de programação:
+<h3 align="left">• Contato:</h3>
+<p align="left">
+<a href="https://twitter.com/luctmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luctmc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luctmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luctmc" height="30" width="40" /></a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,python,react,c,html,css)](https://skillicons.dev)
+<div>
+  <h3>• Linguagens e Tecnologias:</h3>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=c" alt="C#" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="ps" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="ai" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="ae" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="pr" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="blender" width="30" height="30">
+
+</div>
 
 
-### • Outras habilidades:
-
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,blender)](https://skillicons.dev)
-
-### • Contato:
-
-<a href="https://www.github.com/luctmc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://discord.com/users/907748045393920010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
