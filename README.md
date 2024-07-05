@@ -6,7 +6,7 @@
 
 
 <div>
-  <h3>• Linguagens e Tecnologias:</h3>
+  <h3>• Programming Languages and Other Skills:</h3>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30">
@@ -26,7 +26,7 @@
 
 </div>
 
-<h3 align="left">• Contato:</h3>
+<h3 align="left">• Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/luctmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luctmc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas-castro-083201292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luctmc" height="30" width="40" /></a>
