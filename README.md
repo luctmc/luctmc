@@ -6,7 +6,7 @@
 
 
 <div>
-  <h3>• Programming Languages and Other Skills:</h3>
+  <h3>• Programming Languages: </h3>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30">
@@ -18,6 +18,15 @@
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=pr" alt="pr" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="30" height="30">
+
+</div>
+<div>
+<h3>• Other Skills: </h3>
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="30" height="30">
