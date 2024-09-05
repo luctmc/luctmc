@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/luctmc">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luctmc&show_icons=true&locale=pt-br&theme=react"/>
 </div>
 
