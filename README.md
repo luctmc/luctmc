@@ -9,7 +9,7 @@
 
 <div>
   <h3>• Programming Languages: </h3>
-  <img src="https://skillicons.dev/icons?i=python" alt="Swift" width="30" height="30">
+  <img src="https://skillicons.dev/icons?i=Swift" alt="Swift" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="30" height="30">
