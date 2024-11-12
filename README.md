@@ -23,7 +23,7 @@
 <h3>• Other Skills: </h3>
   <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="30" height="30">
-  <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="30" height="30">>
+  <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="30" height="30">
   <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="30" height="30">
 
