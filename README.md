@@ -20,7 +20,7 @@
 <!-- Tecnologias e Ferramentas -->
 <div align="center">
   <!-- Tecnologias -->
-  <p>Tecnologias</p>
+
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
@@ -28,12 +28,11 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
   
   <!-- Outras Habilidades -->
-  <p>Linguagens de Programação</p>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py)](https://skillicons.dev)
   
   <!-- Ferramentas de Design -->
-  <p> Ferramentas de Design</p>
+  <h3> Ferramentas de Design</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,blender)](https://skillicons.dev)
 </div>
