@@ -25,6 +25,6 @@
 </p>
 
 
-<img src="https://img.shields.io/badge/English-Advanced-2ea44f?style=for-the-badge&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/English-Advanced-2ea44f?style=for-the-badge&logoColor=white" height="26" />
 
 </div>
