@@ -57,17 +57,22 @@ Sou desenvolvedor **Web & Mobile** e especialista em **UI & UX**, focado em cria
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=luctmc&show_icons=true&hide_title=true&hide_border=true&theme=transparent&icon_color=ffffff&text_color=ffffff"
-    alt="GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luctmc&theme=github_dark"
+    alt="GitHub profile details"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&layout=compact&hide_border=true&theme=transparent&text_color=ffffff"
-    alt="Top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luctmc&theme=github_dark"
+    alt="Top languages by repo"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luctmc&theme=github_dark"
+    alt="Top languages by commits"
   />
 </p>
+
 
 ## Activity
 
