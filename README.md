@@ -17,62 +17,84 @@ Sou desenvolvedor **Web & Mobile** e especialista em **UI & UX**, focado em cria
 
 ---
 
-## Tech stack
+<h2 align="center">Languages and Tools:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="Django" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
+      <br>AWS
+    </td>              
+ </tr>
+</table>
+</div>
 
-### Languages & Runtime
-<p>
-  <img src="https://img.shields.io/badge/C%23-111111?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20MAUI-111111?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6" />
-</p>
 
-### Front‑end & Web
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6" />
-</p>
-
-### Back‑end & Data
-<p>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=47A248" />
-</p>
-
-### Tools & Design
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-111111?style=flat&logo=visual-studio&logoColor=8452F6" />
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=flat&logo=visual-studio-code&logoColor=22A6F2" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat&logo=figma&logoColor=F24E1E" />
-</p>
-
-
----
-
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luctmc&theme=github_dark"
-    alt="GitHub profile details"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luctmc&theme=github_dark"
-    alt="Top languages by repo"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luctmc&theme=github_dark"
-    alt="Top languages by commits"
-  />
-</p>
-
+<div align="center">
+  <!-- Estatísticas gerais -->
+  <picture>
+    <!-- Modo escuro -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=luctmc&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
+    <!-- Modo claro: defina um tema apropriado (exemplo 'default' ou outro de sua escolha) -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=luctmc&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
+    <!-- Fallback -->
+    <img width="49%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api?username=luctmc&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
+      alt="Estatísticas do GitHub">
+  </picture>
+  
+  <!-- Top Langs -->
+  <picture>
+    <!-- Modo escuro -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+    <!-- Modo claro -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+    <!-- Fallback -->
+    <img width="37%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
+      alt="Linguagens mais usadas">
+  </picture>
+</div>
 
 ## Activity
 
