@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://SEU-PORTFOLIO.com">
+  <a href="https://ltmc.vercel.app/">
     <img src="./assets/btn-portfolio.svg" width="168" alt="Ver portfólio">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lucas-castro-083201292">
+  <a href="https://www.linkedin.com/in/lucas-castro-083201292/">
     <img src="./assets/btn-linkedin.svg" width="168" alt="Perfil no LinkedIn">
   </a>
 </p>
@@ -41,24 +41,6 @@ experiências digitais. Inglês avançado.
   <img src="./assets/stack.svg" width="100%" alt="Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia">
 </p>
 
-## Em destaque
-
-<!-- Cards do github-readme-stats só funcionam com repositórios públicos.
-     Como os seus são privados, aqui vai texto: mesmo peso informativo,
-     nenhuma dependência externa, nada que possa quebrar.
-     Ajuste as descrições — elas devem dizer o problema, não a tecnologia. -->
-
-**Orbit.Finance** · Descreva em uma linha o problema que ele resolve e para quem.
-`TypeScript` `React`
-
-**Ordine** · Site desenvolvido como freelance. Diga o resultado, não o escopo.
-`React` `Vite` `TypeScript`
-
-**Orbit** · Aplicativo nativo. Uma linha sobre o que ele faz.
-`Swift`
-
-**LTMC** · Portfólio pessoal. Link para o site no lugar do repositório.
-`TypeScript`
 
 ## Contribuições
 
