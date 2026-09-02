@@ -12,13 +12,11 @@
 
 <p align="center">
   <a href="https://SEU-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfólio-151B23?style=flat-square&logo=safari&logoColor=2FA898" alt="Portfólio">
+    <img src="./assets/btn-portfolio.svg" width="168" alt="Ver portfólio">
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-151B23?style=flat-square&logo=linkedin&logoColor=2FA898" alt="LinkedIn">
-  </a>
-  <a href="mailto:SEU@EMAIL.com">
-    <img src="https://img.shields.io/badge/E--mail-151B23?style=flat-square&logo=maildotru&logoColor=2FA898" alt="E-mail">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lucas-castro-083201292">
+    <img src="./assets/btn-linkedin.svg" width="168" alt="Perfil no LinkedIn">
   </a>
 </p>
 
@@ -39,68 +37,28 @@ experiências digitais. Inglês avançado.
 
 ## Stack
 
-<!-- Um chip por tecnologia, todos com a mesma superfície e o mesmo acento.
-     A informação é o conjunto, não cada logo colorido.
-     Conceitos (IA, LLMs, automação) vêm primeiro e sem logo, de propósito:
-     é o que você quer que leiam antes das ferramentas. -->
-
-**IA e LLMs**
-[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-151B23?style=flat-square)](#) [![LLMs](https://img.shields.io/badge/LLMs-151B23?style=flat-square)](#) [![Automação](https://img.shields.io/badge/Automação-151B23?style=flat-square)](#) [![IA em produto](https://img.shields.io/badge/IA%20em%20produto-151B23?style=flat-square)](#)
-
-**Interface**
-[![React](https://img.shields.io/badge/React-151B23?style=flat-square&logo=react&logoColor=2FA898)](#) [![Next.js](https://img.shields.io/badge/Next.js-151B23?style=flat-square&logo=nextdotjs&logoColor=2FA898)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-151B23?style=flat-square&logo=typescript&logoColor=2FA898)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-151B23?style=flat-square&logo=javascript&logoColor=2FA898)](#) [![Figma](https://img.shields.io/badge/Figma-151B23?style=flat-square&logo=figma&logoColor=2FA898)](#)
-
-**Servidor**
-[![C#](https://img.shields.io/badge/C%23-151B23?style=flat-square&logo=csharp&logoColor=2FA898)](#) [![ASP.NET](https://img.shields.io/badge/ASP.NET-151B23?style=flat-square&logo=dotnet&logoColor=2FA898)](#) [![Node.js](https://img.shields.io/badge/Node.js-151B23?style=flat-square&logo=nodedotjs&logoColor=2FA898)](#) [![APIs REST](https://img.shields.io/badge/APIs%20REST-151B23?style=flat-square)](#)
-
-**Mobile**
-[![React Native](https://img.shields.io/badge/React%20Native-151B23?style=flat-square&logo=react&logoColor=2FA898)](#) [![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-151B23?style=flat-square&logo=dotnet&logoColor=2FA898)](#) [![Kotlin](https://img.shields.io/badge/Kotlin-151B23?style=flat-square&logo=kotlin&logoColor=2FA898)](#) [![Swift](https://img.shields.io/badge/Swift-151B23?style=flat-square&logo=swift&logoColor=2FA898)](#) [![Flutter](https://img.shields.io/badge/Flutter-151B23?style=flat-square&logo=flutter&logoColor=2FA898)](#) [![Dart](https://img.shields.io/badge/Dart-151B23?style=flat-square&logo=dart&logoColor=2FA898)](#)
-
-**Dados e engenharia**
-[![MySQL](https://img.shields.io/badge/MySQL-151B23?style=flat-square&logo=mysql&logoColor=2FA898)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-151B23?style=flat-square&logo=mongodb&logoColor=2FA898)](#) [![Docker](https://img.shields.io/badge/Docker-151B23?style=flat-square&logo=docker&logoColor=2FA898)](#) [![Git](https://img.shields.io/badge/Git-151B23?style=flat-square&logo=git&logoColor=2FA898)](#) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-151B23?style=flat-square&logo=azuredevops&logoColor=2FA898)](#)
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia">
+</p>
 
 ## Em destaque
 
-<!-- Troque REPO-1..4 pelos repositórios que você quer que sejam lidos primeiro.
-     Se um projeto for privado, apague o card e deixe só a linha de texto. -->
+<!-- Cards do github-readme-stats só funcionam com repositórios públicos.
+     Como os seus são privados, aqui vai texto: mesmo peso informativo,
+     nenhuma dependência externa, nada que possa quebrar.
+     Ajuste as descrições — elas devem dizer o problema, não a tecnologia. -->
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/luctmc/REPO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luctmc&repo=REPO-1&bg_color=00000000&title_color=2FA898&text_color=6E7A85&icon_color=E07A4F&border_color=30363D&cache_seconds=86400" alt="REPO-1">
-      </a>
-      <p><sub>Uma linha sobre o problema que esse projeto resolve.</sub></p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/luctmc/REPO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luctmc&repo=REPO-2&bg_color=00000000&title_color=2FA898&text_color=6E7A85&icon_color=E07A4F&border_color=30363D&cache_seconds=86400" alt="REPO-2">
-      </a>
-      <p><sub>Uma linha sobre o problema que esse projeto resolve.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/luctmc/REPO-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luctmc&repo=REPO-3&bg_color=00000000&title_color=2FA898&text_color=6E7A85&icon_color=E07A4F&border_color=30363D&cache_seconds=86400" alt="REPO-3">
-      </a>
-      <p><sub>Uma linha sobre o problema que esse projeto resolve.</sub></p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/luctmc/REPO-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luctmc&repo=REPO-4&bg_color=00000000&title_color=2FA898&text_color=6E7A85&icon_color=E07A4F&border_color=30363D&cache_seconds=86400" alt="REPO-4">
-      </a>
-      <p><sub>Uma linha sobre o problema que esse projeto resolve.</sub></p>
-    </td>
-  </tr>
-</table>
+**Orbit.Finance** · Descreva em uma linha o problema que ele resolve e para quem.
+`TypeScript` `React`
 
-## Números
+**Ordine** · Site desenvolvido como freelance. Diga o resultado, não o escopo.
+`React` `Vite` `TypeScript`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luctmc&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2FA898&text_color=6E7A85&icon_color=E07A4F&ring_color=2FA898&cache_seconds=86400" alt="Estatísticas do GitHub de luctmc">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luctmc&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2FA898&text_color=6E7A85&hide=shaderlab,hlsl,shell,jupyter%20notebook&cache_seconds=86400" alt="Linguagens mais usadas por luctmc">
-</p>
+**Orbit** · Aplicativo nativo. Uma linha sobre o que ele faz.
+`Swift`
+
+**LTMC** · Portfólio pessoal. Link para o site no lugar do repositório.
+`TypeScript`
 
 ## Contribuições
 
