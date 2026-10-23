@@ -1,7 +1,7 @@
 <!--
   README de perfil — Lucas T. M. Castro
   Paleta:  tinta #E6EDF3 / #1F2328 · texto #6E7A85 · linha #30363D
-           acento 1 (menta) #2FA898 · acento 2 (âmbar) #E07A4F · superfície #151B23
+           acento 1 (branco) #FFFFFF / #1F2328 · acento 2 (âmbar) #E07A4F · superfície #151B23
   Regra:   fundo transparente nos widgets (bg_color=00000000) para funcionarem
            nos temas claro e escuro do GitHub sem duplicar URLs.
 -->
