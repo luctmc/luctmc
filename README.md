@@ -7,16 +7,16 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Lucas T. M. Castro — analista desenvolvedor: IA, full stack e UI/UX">
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Lucas T. M. Castro — analista desenvolvedor: IA, full stack e UI/UX">
 </p>
 
 <p align="center">
   <a href="https://ltmc.vercel.app/">
-    <img src="./assets/btn-portfolio.svg" width="168" alt="Ver portfólio">
+    <img src="./assets/btn-portfolio.svg?v=2" width="168" alt="Ver portfólio">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/lucas-castro-083201292/">
-    <img src="./assets/btn-linkedin.svg" width="168" alt="Perfil no LinkedIn">
+    <img src="./assets/btn-linkedin.svg?v=2" width="168" alt="Perfil no LinkedIn">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ experiências digitais. Inglês avançado.
 ## Stack
 
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia">
+  <img src="./assets/stack.svg?v=2" width="100%" alt="Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia">
 </p>
 
 
