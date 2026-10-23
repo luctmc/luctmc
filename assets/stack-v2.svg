@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 262" width="780" height="262" role="img" aria-labelledby="stackTitle">
+  <title id="stackTitle">Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia</title>
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .lbl  { font-size: 13px; font-weight: 600; fill: #E6EDF3; text-anchor: end; }
+    .chip { fill: #151B23; stroke: #30363D; stroke-width: 1; }
+    .txt  { font-size: 14px; font-weight: 500; fill: #8B949E; }
+    .rule { stroke: #30363D; stroke-width: 1; }
+    .chip-a { fill: #151B23; stroke: #FFFFFF; stroke-width: 1; }
+    .txt-a  { font-size: 14px; font-weight: 500; fill: #FFFFFF; }
+    @media (prefers-color-scheme: light) {
+      .lbl { fill: #1F2328; }
+      .chip { fill: #F6F8FA; stroke: #D0D7DE; }
+      .txt { fill: #59636E; }
+      .rule { stroke: #D0D7DE; }
+      .chip-a { fill: #F6F8FA; stroke: #1F2328; }
+      .txt-a { fill: #1F2328; }
+    }
+  </style>
+  <line class="rule" x1="172" y1="24" x2="172" y2="238" />
+  <text class="t lbl" x="150" y="44">IA e LLMs</text>
+  <rect class="chip-a" x="196" y="24" width="126" height="30" rx="8" />
+  <text class="t txt-a" x="259.0" y="44" text-anchor="middle">IA Generativa</text>
+  <rect class="chip-a" x="330" y="24" width="76" height="30" rx="8" />
+  <text class="t txt-a" x="368.0" y="44" text-anchor="middle">LLMs</text>
+  <rect class="chip-a" x="414" y="24" width="110" height="30" rx="8" />
+  <text class="t txt-a" x="469.0" y="44" text-anchor="middle">Automação</text>
+  <rect class="chip-a" x="532" y="24" width="129" height="30" rx="8" />
+  <text class="t txt-a" x="596.5" y="44" text-anchor="middle">IA em produto</text>
+  <text class="t lbl" x="150" y="90">Interface</text>
+  <rect class="chip" x="196" y="70" width="73" height="30" rx="8" />
+  <text class="t txt" x="232.5" y="90" text-anchor="middle">React</text>
+  <rect class="chip" x="277" y="70" width="83" height="30" rx="8" />
+  <text class="t txt" x="318.5" y="90" text-anchor="middle">Next.js</text>
+  <rect class="chip" x="368" y="70" width="109" height="30" rx="8" />
+  <text class="t txt" x="422.5" y="90" text-anchor="middle">TypeScript</text>
+  <rect class="chip" x="485" y="70" width="109" height="30" rx="8" />
+  <text class="t txt" x="539.5" y="90" text-anchor="middle">JavaScript</text>
+  <rect class="chip" x="602" y="70" width="78" height="30" rx="8" />
+  <text class="t txt" x="641.0" y="90" text-anchor="middle">Figma</text>
+  <text class="t lbl" x="150" y="136">Servidor</text>
+  <rect class="chip" x="196" y="116" width="52" height="30" rx="8" />
+  <text class="t txt" x="222.0" y="136" text-anchor="middle">C#</text>
+  <rect class="chip" x="256" y="116" width="99" height="30" rx="8" />
+  <text class="t txt" x="305.5" y="136" text-anchor="middle">ASP.NET</text>
+  <rect class="chip" x="363" y="116" width="86" height="30" rx="8" />
+  <text class="t txt" x="406.0" y="136" text-anchor="middle">Node.js</text>
+  <rect class="chip" x="457" y="116" width="112" height="30" rx="8" />
+  <text class="t txt" x="513.0" y="136" text-anchor="middle">APIs REST</text>
+  <text class="t lbl" x="150" y="182">Mobile</text>
+  <rect class="chip" x="196" y="162" width="121" height="30" rx="8" />
+  <text class="t txt" x="256.5" y="182" text-anchor="middle">React Native</text>
+  <rect class="chip" x="325" y="162" width="112" height="30" rx="8" />
+  <text class="t txt" x="381.0" y="182" text-anchor="middle">.NET MAUI</text>
+  <rect class="chip" x="445" y="162" width="74" height="30" rx="8" />
+  <text class="t txt" x="482.0" y="182" text-anchor="middle">Kotlin</text>
+  <rect class="chip" x="527" y="162" width="72" height="30" rx="8" />
+  <text class="t txt" x="563.0" y="182" text-anchor="middle">Swift</text>
+  <rect class="chip" x="607" y="162" width="79" height="30" rx="8" />
+  <text class="t txt" x="646.5" y="182" text-anchor="middle">Flutter</text>
+  <rect class="chip" x="694" y="162" width="62" height="30" rx="8" />
+  <text class="t txt" x="725.0" y="182" text-anchor="middle">Dart</text>
+  <text class="t lbl" x="150" y="228">Dados e engenharia</text>
+  <rect class="chip" x="196" y="208" width="86" height="30" rx="8" />
+  <text class="t txt" x="239.0" y="228" text-anchor="middle">MySQL</text>
+  <rect class="chip" x="290" y="208" width="100" height="30" rx="8" />
+  <text class="t txt" x="340.0" y="228" text-anchor="middle">MongoDB</text>
+  <rect class="chip" x="398" y="208" width="81" height="30" rx="8" />
+  <text class="t txt" x="438.5" y="228" text-anchor="middle">Docker</text>
+  <rect class="chip" x="487" y="208" width="54" height="30" rx="8" />
+  <text class="t txt" x="514.0" y="228" text-anchor="middle">Git</text>
+  <rect class="chip" x="549" y="208" width="130" height="30" rx="8" />
+  <text class="t txt" x="614.0" y="228" text-anchor="middle">Azure DevOps</text>
+</svg>
