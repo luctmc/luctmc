@@ -38,7 +38,7 @@ experiências digitais. Inglês avançado.
 ## Stack
 
 <p align="center">
-  <img src="./assets/stack.svg?v=2" width="100%" alt="Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia">
+  <img src="./assets/stack-v2.svg" width="100%" alt="Stack: IA e LLMs, interface, servidor, mobile, dados e engenharia">
 </p>
 
 
